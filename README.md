@@ -2,8 +2,7 @@
 
 ## 💫 About
 - [ ] 🔭 I’m currently working on JAVA
-- [ ] 🌱 I’m currently learning Spring
-- [ ] 👯 I’m looking to collaborate on You Tube
+- [ ] 👯 Developer by profession
 - [ ] 💬 Ask me about any Tech related stuff
 - [ ] 😄 Pronouns: He/His
 - [ ] ⚡ Fun fact: Spends a lot of time spotify!!
